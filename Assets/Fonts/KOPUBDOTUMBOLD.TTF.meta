@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9b5ab67d09a72b640ae939eafd76c5fe
+timeCreated: 1529555442
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KoPubDotum Bold
+  fontNames:
+  - KoPubDotum Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
